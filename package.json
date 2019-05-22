@@ -1,0 +1,28 @@
+{
+  "name": "hyper-mac",
+  "version": "0.0.1",
+  "description": "Make hyper look like a native window",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablopunk/hyper-mac.git"
+  },
+  "keywords": [
+    "hyper",
+    "mac",
+    "native",
+    "window",
+    "title",
+    "bar",
+    "terminal"
+  ],
+  "author": "Pablo Varela (https://pablo.life)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablopunk/hyper-mac/issues"
+  },
+  "homepage": "https://github.com/pablopunk/hyper-mac#readme"
+}
