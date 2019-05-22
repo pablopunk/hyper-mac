@@ -15,3 +15,15 @@ $ hyper install hyper-mac
 </p>
 
 > this screenshot is using `hyper-mac` with `hyper-sick` colors.
+
+## License
+
+ISC
+
+## Author
+
+CSS from [leo/hyper-native](/leo/hyper-native)
+
+| ![me](https://gravatar.com/avatar/fa50aeff0ddd6e63273a068b04353d9d?size=100) |
+| ---------------------------------------------------------------------------- |
+| [Pablo Varela](https://pablo.life)                                           |

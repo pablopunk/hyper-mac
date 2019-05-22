@@ -1,17 +1,3 @@
-.hyper_main {
-  border: 0;
-  border-radius: 0;
-}
-
-.header_header {
-  top: 0;
-  left: 0;
-  right: 0;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
-  position: relative;
-}
-
 .terms_terms {
   margin-top: 0;
   position: relative;
@@ -20,26 +6,17 @@
   height: calc(100% - 23px);
 }
 
-/* Ensure v1 backwards compatibility */
 body.closed-tabs .terms_terms {
   height: 100%;
 }
 
-:global(body.closed-tabs) .terms_terms {
-  height: 100%;
-}
-
 .tabs_nav {
-  height: 23px;
-  line-height: 22px;
+  height: 2em;
+  line-height: 1.8em;
   background: #2D2D2D !important;
 }
 
-/* Ensure v1 backwards compatibility */
-body.closed-tabs .tabs_nav {
-  display: none;
-}
-
+body.closed-tabs .tabs_nav,
 :global(body.closed-tabs) .tabs_nav {
   display: none;
 }
