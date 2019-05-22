@@ -3,19 +3,19 @@ const { join } = require('path')
 
 const styles = fs.readFileSync(join(__dirname, 'index.css'), 'utf-8')
 
-exports.decorateConfig = (config) => ({
+module.exports.decorateConfig = (config) => ({
   ...config,
   padding: '5px',
   css: `${config.css} ${styles}`
 })
 
-exports.decorateBrowserOptions = defaults => ({
+module.exports.decorateBrowserOptions = defaults => ({
   ...defaults,
   titleBarStyle: 'native',
   transparent: false
 })
 
-exports.getTabsProps = (parentProps, props) => {
+module.exports.getTabsProps = (parentProps, props) => {
   props.tabs.length < 2
     ? document.body.classList.add('closed-tabs')
     : document.body.classList.remove('closed-tabs')
