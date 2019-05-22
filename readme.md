@@ -20,7 +20,8 @@ $ hyper install hyper-mac
 
 ISC
 
-## Author
+
+## Author
 
 CSS from [leo/hyper-native](/leo/hyper-native)
 
