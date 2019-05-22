@@ -1,5 +1,6 @@
-exports.decorateConfig = config => ({
+exports.decorateConfig = ({ css }) => ({
   padding: '5px',
+  css
 })
 
 exports.decorateBrowserOptions = defaults => ({
