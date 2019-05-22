@@ -3,9 +3,10 @@ const { join } = require('path')
 
 const styles = fs.readFileSync(join(__dirname, 'index.css'), 'utf-8')
 
-exports.decorateConfig = ({ css = '' }) => ({
+exports.decorateConfig = (config) => ({
+  ...config,
   padding: '5px',
-  css: `${css} ${styles}`
+  css: `${config.css} ${styles}`
 })
 
 exports.decorateBrowserOptions = defaults => ({
