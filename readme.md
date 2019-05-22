@@ -2,6 +2,12 @@
 
 Make hyper look like a native mac window.
 
+## Install
+
+```bash
+$ hyper install hyper-mac
+```
+
 <p align="center">
   <img src="https://assets.zeit.co/image/upload/v1549723846/repositories/hyper/hyper-3-repo-banner.png" alt="logo">
   <br>
