@@ -1,4 +1,4 @@
-# hyper-mac
+# hyper-mac ![npm](https://img.shields.io/npm/dt/hyper-mac.svg?style=social)
 
 Make hyper look like a native mac window.
 
