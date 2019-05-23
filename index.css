@@ -17,7 +17,7 @@
   position: relative;
   top: auto;
   bottom: auto;
-  height: 100%;
+  height: calc(100% - 23px);
 }
 
 /* Ensure v1 backwards compatibility */
