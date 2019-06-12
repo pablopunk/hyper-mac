@@ -23,7 +23,7 @@ ISC
 
 ## Author
 
-CSS from [leo/hyper-native](/leo/hyper-native)
+CSS from [leo/hyper-native](https://github.com/leo/hyper-native)
 
 | ![me](https://gravatar.com/avatar/fa50aeff0ddd6e63273a068b04353d9d?size=100) |
 | ---------------------------------------------------------------------------- |
