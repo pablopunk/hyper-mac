@@ -11,7 +11,7 @@ $ hyper install hyper-mac
 <p align="center">
   <img src="https://assets.zeit.co/image/upload/v1549723846/repositories/hyper/hyper-3-repo-banner.png" alt="logo">
   <br>
-  <img src="https://github.com/pablopunk/art/raw/master/sick-colors/terminal.png" alt="screenshot">
+  <img src="https://github.com/pablopunk/art/raw/f2b1ebbf6fa20086883e1db9fa2d54eb0abde857/sick-colors/terminal.png" alt="screenshot">
 </p>
 
 > this screenshot is using `hyper-mac` with `hyper-sick` colors.
