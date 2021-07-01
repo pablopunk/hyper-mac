@@ -1,6 +1,6 @@
 {
   "name": "hyper-mac",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Make hyper look like a native window",
   "main": "index.js",
   "scripts": {
