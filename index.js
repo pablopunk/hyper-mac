@@ -5,7 +5,6 @@ const styles = fs.readFileSync(join(__dirname, 'index.css'), 'utf-8')
 
 module.exports.decorateConfig = (config) => ({
   ...config,
-  padding: '5px',
   css: `${config.css} ${styles}`
 })
 
